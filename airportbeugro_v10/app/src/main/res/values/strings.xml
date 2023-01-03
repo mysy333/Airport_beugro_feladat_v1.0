@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">airport-beugro_v1.0</string>
+    <string-array name="varos_nevek">
+        <item></item>
+        <item>Budapest</item>
+        <item>Debrecen</item>
+        <item>Miskolc</item>
+        <item>Szeged</item>
+        <item>Zalaegerszeg</item>
+    </string-array>
+</resources>
